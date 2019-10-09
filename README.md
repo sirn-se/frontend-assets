@@ -15,7 +15,7 @@ The script automaticly loads partial specified by `data-px-url`.
 <div data-px-url="path/to/another/partial.html">Content will be replaced</div>
 ```
 
-It also supports links that loads parials into any target element, by using `data-px-href` and `data-px-target`.
+It also supports links that loads partials into any target element, by using `data-px-href` and `data-px-target`.
 ```html
 <script src="jquery.px.js"></script>
 <div id="my_target">Content will be replaced</div>
